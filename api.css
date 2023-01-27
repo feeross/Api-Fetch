@@ -1,0 +1,35 @@
+.table {
+    text-align: center;
+    width: 100%;
+    border: 1px solid #000;
+ }
+
+ th, td {
+    width: 25%;
+    text-align:center;
+    border: 1px solid #000;
+ }
+
+ #id {
+    text-align: center;
+ }
+
+
+ #firstName {
+    text-align: center;
+ }
+
+ #lastName {
+    text-align: center;
+ }
+
+ #email {
+    text-align: center;
+ }
+
+#avatar {
+   display: block;
+   margin: auto;
+   border-radius: 60px;
+}
+
